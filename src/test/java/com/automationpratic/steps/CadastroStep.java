@@ -34,6 +34,7 @@ public class CadastroStep {
 
     @E("acesso o formulário de cadastro")
     public void acessoOFormulárioDeCadastro() {
+        cadastroPage.acessarCadastro();
     }
 
     @Quando("insiro os dados corretamente")
