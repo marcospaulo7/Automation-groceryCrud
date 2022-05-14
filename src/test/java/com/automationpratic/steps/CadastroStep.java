@@ -40,7 +40,7 @@ public class CadastroStep {
     public void insiroOsDadosCorretamente() {
         cadastroModel = new CadastroModel(
                 "Teste Sicredi"
-                , "Teste"
+                , "Soares"
                 , "Marcos Paulo"
                 , "51 9999-9999"
                 , "Av Assis Brasil, 3970"
